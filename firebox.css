@@ -1,0 +1,83 @@
+nav{
+    text-align: center;
+    background-color: gold;
+    padding: 1%;
+    text-decoration: underline;
+    font-weight: bold;
+
+
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    justify-content: space-between;
+
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+ h1{
+     text-align: center;
+ }
+
+
+.shop{
+    text-align: center;
+    height: 48px;
+
+}
+.box{
+    display: grid;
+    height: 400px;
+    width: 800px;
+    background-color: gold;
+
+}
+.box2{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    color: orange;
+    margin: 20px;
+    padding: 5%;
+
+}
+/*.box3{*/
+/*    border-top-left-radius: 50%;*/
+/*    border-top-right-radius: 50%;*/
+/*    height: 100px;*/
+/*    width: 200px;*/
+/*    align-content: center;*/
+/*    background-color: red;*/
+
+/*}*/
+img{
+    height: 60px;
+    width: 40px;
+    position: absolute;
+    right: 68%;
+    /*rotation: 0deg;*/
+    /*float: left;*/
+
+}
+
+/*.red{*/
+/*    display: grid;*/
+/*    height: 300px;*/
+/*    width: 800px;*/
+/*    background-color: yellow;*/
+
+/*}*/
+.button{
+    text-align: center;
+    display: block;
+
+
+}
+p{
+    text-align: center;
+}
+
